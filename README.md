@@ -8,13 +8,16 @@ It does rely on third party apis and you can have full control over its datasour
 
 ## File struture:
 
-force-app/main/default/classes : 
+<br> force-app/main/default/classes : This folder has four classes </br>
+<br> 1.  Address Search Controller class</br>
+<br> 2. Google Map calculation of Direction,Travel Time, and cost of Travel class </br>
+<br> 3. Look Up search Result class</br>
+<br> 4. Place finder Results class </br>
 
-force-app/main/default/lwc/advancedMapLookUp :
+force-app/main/default/lwc/advancedMapLookUp : This is the Parent Component for the main framework of the LWC.
 
-force-app/main/default/lwc: 
+force-app/main/default/lwc/lookup: This is the Child Component used for the search suggestions
 
-config: 
 
 The lookup component provides the following features:
 
