@@ -12,8 +12,9 @@ Features
 The lookup component provides the following features:
 
 Requirements: <br />
- <br>* Display a webpage that allows the user to enter an origin address and a destination address. The
-    LWC should use the Google Maps API to autocomplete the addresses as the user types.</br>
+* Display a webpage that allows the user to enter an origin address and a destination address. The LWC should use the Google Maps API to autocomplete the addresses as the user types.
+
+
  <br>* When the user clicks the "Get Directions" button, the webpage calls an Apex class using 
     JavaScript to pass the address information.</br>
  <br>* The Apex class should use the Google Maps API to calculate the distance and travel time
