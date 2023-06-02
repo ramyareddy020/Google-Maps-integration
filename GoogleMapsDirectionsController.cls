@@ -20,7 +20,7 @@ public with sharing class GoogleMapsDirectionsController {
         
         // Call the Google Maps API to calculate distance, travel time, and cost of travel
          String apiUrl = 'https://maps.googleapis.com/maps/api/directions/json';
-        String apiKey = 'AIzaSyAqq35B1dB6W6Jz6raGWEki7lT60yOBiM0'; // Replace with your actual API key
+        String apiKey = 'your key'; // Replace with your actual API key
         
         // Set the request parameters
         String requestUrl = apiUrl + '?origin=' + EncodingUtil.urlEncode(originAddress , 'UTF-8')
