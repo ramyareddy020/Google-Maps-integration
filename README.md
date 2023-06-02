@@ -4,8 +4,8 @@
 -- 
 About
 
-This is a assessment shows the Distance, Travel Time, and cost of Travel built using Salesforce Lightning Web Components and SLDS style.
-It does rely on third party apis and you have full control over its datasource provided with an api key.
+This is an assessment shows the Distance, Travel Time, and cost of Travel built using Salesforce Lightning Web Components and SLDS style.
+It does rely on third party apis and you can have full control over its datasource provided with an api key.
 
 File struture:
 
