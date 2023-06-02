@@ -41,6 +41,7 @@ Requirements:
 ===================
 ![](GoogleMaps_3.png)
   Custom Metadata Type:
+  ![](Image_1.png)
   
   
 
