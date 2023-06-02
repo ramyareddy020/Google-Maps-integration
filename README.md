@@ -14,12 +14,11 @@ The lookup component provides the following features:
 Requirements: <br />
 * Display a webpage that allows the user to enter an origin address and a destination address. The LWC should use the Google Maps API to autocomplete the addresses as the user types.
 
+* When the user clicks the "Get Directions" button, the webpage calls an Apex class using JavaScript to pass the address information.
 
- <br>* When the user clicks the "Get Directions" button, the webpage calls an Apex class using 
-    JavaScript to pass the address information.</br>
- <br>* The Apex class should use the Google Maps API to calculate the distance and travel time
-    between the origin and destination addresses.</br>
- <br>* The Apex class should also calculate the cost of travel, based on a fixed rate per mile for
+* The Apex class should use the Google Maps API to calculate the distance and travel time between the origin and destination addresses.
+
+* The Apex class should also calculate the cost of travel, based on a fixed rate per mile for
     different modes of transportation (i.e: flying, driving). The rates should be stored in a Custom
     Metadata Type.</br>
  <br>* The Apex class should pass the distance, travel time, and cost of travel back to the LWC.
