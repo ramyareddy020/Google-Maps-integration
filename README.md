@@ -1,13 +1,12 @@
 # Google-Maps-integration!
 
-## File structure
--- 
-About
+ 
+## About
 
 This is an assessment shows the Distance, Travel Time, and cost of Travel built using Salesforce Lightning Web Components and SLDS style.
 It does rely on third party apis and you can have full control over its datasource provided with an api key.
 
-File struture:
+## File struture:
 
 force-app/main/default/classes : 
 
@@ -19,7 +18,8 @@ config:
 
 The lookup component provides the following features:
 
-Requirements: <br />
+## Requirements: 
+<br />
 * Display a webpage that allows the user to enter an origin address and a destination address. The LWC should use the Google Maps API to autocomplete the addresses as the user types.
 
 * When the user clicks the "Get Directions" button, the webpage calls an Apex class using JavaScript to pass the address information.
@@ -36,12 +36,6 @@ Requirements: <br />
     “String vHash = ‘Sm9obiBEb2U=’;”.
     
 * Include passing unit tests with Http Mock.
-
-
-
-
-
-
 
 ## Demo
 ![](GoogleMap_2.png)
