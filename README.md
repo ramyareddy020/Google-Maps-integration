@@ -8,7 +8,7 @@
 
 
 
-
+![](GoogleMap_1.png)
 
 
 
