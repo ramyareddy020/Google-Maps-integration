@@ -4,10 +4,10 @@
 -- 
 About
 
-This is a generic & customizable lookup component that shows the Distance, Travel Time, and cost of Travel built using Salesforce Lightning Web Components and SLDS style.
-It does not rely on third party libraries and you have full control over its datasource.
+This is a assessment shows the Distance, Travel Time, and cost of Travel built using Salesforce Lightning Web Components and SLDS style.
+It does rely on third party apis and you have full control over its datasource provided with an api key.
 
-Features
+File struture:
 
 The lookup component provides the following features:
 
