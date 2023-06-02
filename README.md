@@ -9,6 +9,14 @@ It does rely on third party apis and you can have full control over its datasour
 
 File struture:
 
+force-app/main/default/classes : 
+
+force-app/main/default/lwc/advancedMapLookUp :
+
+force-app/main/default/lwc: 
+
+config: 
+
 The lookup component provides the following features:
 
 Requirements: <br />
