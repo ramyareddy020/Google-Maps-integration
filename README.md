@@ -18,15 +18,16 @@ Requirements: <br />
 
 * The Apex class should use the Google Maps API to calculate the distance and travel time between the origin and destination addresses.
 
-* The Apex class should also calculate the cost of travel, based on a fixed rate per mile for
-    different modes of transportation (i.e: flying, driving). The rates should be stored in a Custom
-    Metadata Type.</br>
- <br>* The Apex class should pass the distance, travel time, and cost of travel back to the LWC.
- <br>* The LWC should display the distance, travel time, and cost of travel to the user.</br>
- <br>* Important! The Apex class should include a variable called `vHash` where your full name is
-    assigned in Base64 encoding. Your name should not appear in plaintext. Example (John Doe):
-    “String vHash = ‘Sm9obiBEb2U=’;”.</br>
- <br>* Include passing unit tests with Http Mock.</br>
+* The Apex class should also calculate the cost of travel, based on a fixed rate per mile for different modes of transportation (i.e: flying, driving). The rates should be stored in a Custom Metadata Type.
+
+* The Apex class should pass the distance, travel time, and cost of travel back to the LWC.
+
+* The LWC should display the distance, travel time, and cost of travel to the user.
+
+* Important! The Apex class should include a variable called `vHash` where your full name is assigned in Base64 encoding. Your name should not appear in plaintext. Example (John Doe):
+    “String vHash = ‘Sm9obiBEb2U=’;”.
+    
+* Include passing unit tests with Http Mock.
 
 
 
