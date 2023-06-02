@@ -7,18 +7,12 @@
 
 
 
-
-![](GoogleMap_1.png)
-
-
-
-
 ## Demo
 ![](GoogleMap_2.png)
 ===================
-![](GoogleMap_1.png)
+![](GoogleMaps_1.png)
 ===================
-![](GoogleMap_3.png)
+![](GoogleMaps_3.png)
 ===================
-![](GoogleMap_4.png)
+![](GoogleMaps_4.png)
 
